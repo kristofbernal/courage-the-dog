@@ -1,0 +1,32 @@
+body {
+	background-color: mediumslateblue;
+}
+h1{
+	font-size: 30px;
+	color: firebrick;
+}
+
+h2 {
+	font-size: 20px;
+	color: seagreen;
+}
+
+.important {
+	font-size: 50px;
+}
+
+.other {
+	text-transform: uppercase;
+}
+
+.important.other {
+	color: turquoise;
+}
+
+span {
+	color: white;
+}
+
+h1 span {
+	color: deepskyblue;
+}
